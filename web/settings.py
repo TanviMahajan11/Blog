@@ -28,7 +28,7 @@ DEBUG_KEY ="True"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["tanvisblog.herokuapp.com"]
+ALLOWED_HOSTS = ["tanvisblog.herokuapp.com","localhost"]
 
 # Application definition
 
